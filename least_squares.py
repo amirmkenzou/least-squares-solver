@@ -180,4 +180,3 @@ else:
     st.warning("⚠️ لطفاً دیتاست را بارگذاری کنید")
 
 st.markdown("---")
-st.caption("پروژه ۲ - حل دستگاه خطی با Least Squares | دانشگاه")
